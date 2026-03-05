@@ -7,4 +7,4 @@ description user-defined
 scientificName user-defined
 orderKey 4800
 htmlPath SIRV4/SIRV4_genome.html
-defaultPos SIRV7:1-5000
+defaultPos SIRV4:1-5000
