@@ -1,0 +1,95 @@
+1_000_000.gff
+2026-03-05 13:45:51,476 - INFO - Output directory: /data/analysis/1_000_000
+2026-03-05 13:45:51,477 - INFO - Created temporary directory: /tmp/sqanti3_bigbed_y125vf3k
+2026-03-05 13:45:51,477 - INFO - Parsing classification file...
+2026-03-05 13:45:52,004 - INFO - Loaded classification data for 139840 transcripts with 48 columns
+2026-03-05 13:45:52,005 - INFO - Converting GTF to GenePred format...
+2026-03-05 13:45:53,267 - INFO - GTF to GenePred conversion completed
+2026-03-05 13:45:53,267 - INFO - Converting GenePred to BED format...
+2026-03-05 13:45:53,754 - INFO - GenePred to BED conversion completed
+2026-03-05 13:45:53,754 - INFO - Adding classification data to BED file (Vectorized)...
+2026-03-05 13:45:58,235 - INFO - Created enhanced BED file with 44 extra columns: /tmp/sqanti3_bigbed_y125vf3k/transcripts_full.bed
+2026-03-05 13:45:58,335 - INFO - Generating Trix index...
+2026-03-05 13:46:52,194 - INFO - Trix index generated: /data/analysis/1_000_000/hg38/trix.ix, /data/analysis/1_000_000/hg38/trix.ixx
+2026-03-05 13:46:52,325 - INFO - Converting BED to bigBed...
+2026-03-05 13:46:52,325 - INFO - Extracting chromosome sizes from GTF file...
+2026-03-05 13:46:53,046 - INFO - Extracted chromosome sizes for 3 chromosomes
+2026-03-05 13:46:53,840 - INFO - Sorted 139840 transcripts: by genomic position, pipeline order for ties (basic)
+2026-03-05 13:46:55,312 - INFO - Sorted BED written to: /tmp/sqanti3_bigbed_y125vf3k/transcripts_full.sorted.bed
+2026-03-05 13:46:56,763 - INFO - BigBed file created: /data/analysis/1_000_000/hg38/hg38_sqanti3.bb
+2026-03-05 13:46:56,788 - INFO - Creating category-specific bigBed files...
+2026-03-05 13:46:57,478 - INFO - Sorted 28150 transcripts: by genomic position, pipeline order for ties (basic)
+2026-03-05 13:46:58,073 - INFO - Created category track: /data/analysis/1_000_000/hg38/hg38_sqanti3_genic_intron.bb
+2026-03-05 13:46:58,136 - INFO - Sorted 33793 transcripts: by genomic position, pipeline order for ties (basic)
+2026-03-05 13:46:58,893 - INFO - Created category track: /data/analysis/1_000_000/hg38/hg38_sqanti3_antisense.bb
+2026-03-05 13:46:58,917 - INFO - Sorted 11392 transcripts: by genomic position, pipeline order for ties (basic)
+2026-03-05 13:46:59,208 - INFO - Created category track: /data/analysis/1_000_000/hg38/hg38_sqanti3_genic.bb
+2026-03-05 13:46:59,222 - INFO - Sorted 1394 transcripts: by genomic position, pipeline order for ties (basic)
+2026-03-05 13:46:59,291 - INFO - Created category track: /data/analysis/1_000_000/hg38/hg38_sqanti3_novel_in_catalog.bb
+2026-03-05 13:46:59,365 - INFO - Sorted 54213 transcripts: by genomic position, pipeline order for ties (basic)
+2026-03-05 13:47:00,460 - INFO - Created category track: /data/analysis/1_000_000/hg38/hg38_sqanti3_intergenic.bb
+2026-03-05 13:47:00,476 - INFO - Sorted 544 transcripts: by genomic position, pipeline order for ties (basic)
+2026-03-05 13:47:00,524 - INFO - Created category track: /data/analysis/1_000_000/hg38/hg38_sqanti3_full-splice_match.bb
+2026-03-05 13:47:00,536 - INFO - Sorted 302 transcripts: by genomic position, pipeline order for ties (basic)
+2026-03-05 13:47:00,558 - INFO - Created category track: /data/analysis/1_000_000/hg38/hg38_sqanti3_incomplete-splice_match.bb
+2026-03-05 13:47:00,578 - INFO - Sorted 8597 transcripts: by genomic position, pipeline order for ties (basic)
+2026-03-05 13:47:00,822 - INFO - Created category track: /data/analysis/1_000_000/hg38/hg38_sqanti3_novel_not_in_catalog.bb
+2026-03-05 13:47:00,835 - INFO - Sorted 1455 transcripts: by genomic position, pipeline order for ties (basic)
+2026-03-05 13:47:00,886 - INFO - Created category track: /data/analysis/1_000_000/hg38/hg38_sqanti3_fusion.bb
+2026-03-05 13:47:00,897 - INFO - Creating hub files...
+2026-03-05 13:47:01,844 - INFO - Hub files created successfully
+2026-03-05 13:47:01,844 - INFO - Conversion completed successfully!
+2026-03-05 13:47:01,844 - INFO - Output directory: /data/analysis/1_000_000
+2026-03-05 13:47:01,844 - INFO - BigBed file: /data/analysis/1_000_000/hg38/hg38_sqanti3.bb
+2026-03-05 13:47:01,844 - INFO - Hub files created and ready for upload to UCSC Genome Browser
+2026-03-05 13:47:01,844 - INFO - Use searchIndex and filterValues on the name field for comprehensive filtering in the Genome Browser
+2026-03-05 13:47:01,884 - INFO - Cleaned up temporary directory
+2026-03-05 13:47:01,884 - INFO - Generating HTML table reports...
+2026-03-05 13:47:01,884 - INFO - Reading classification file: /data/analysis/1_000_000/1_000_000_classification.txt
+2026-03-05 13:47:02,419 - INFO - Excluding 'ORF_seq' column (use --include-sequences to keep it)
+2026-03-05 13:47:02,425 - INFO - Found 9 structural categories.
+2026-03-05 13:47:03,821 - INFO - Generated full transcriptome report: /data/analysis/1_000_000/table_reports/complete_transcriptome_isoforms.html
+2026-03-05 13:47:03,822 - INFO - Processing category: genic_intron
+2026-03-05 13:47:04,272 - INFO -   -> Generated /data/analysis/1_000_000/table_reports/genic_intron_isoforms.html
+2026-03-05 13:47:04,273 - INFO - Processing category: antisense
+2026-03-05 13:47:04,666 - INFO -   -> Generated /data/analysis/1_000_000/table_reports/antisense_isoforms.html
+2026-03-05 13:47:04,666 - INFO - Processing category: genic
+2026-03-05 13:47:04,827 - INFO -   -> Generated /data/analysis/1_000_000/table_reports/genic_isoforms.html
+2026-03-05 13:47:04,827 - INFO - Processing category: novel_in_catalog
+2026-03-05 13:47:05,118 - INFO -   -> Generated /data/analysis/1_000_000/table_reports/novel_in_catalog_isoforms.html
+2026-03-05 13:47:05,118 - INFO - Processing category: intergenic
+2026-03-05 13:47:06,125 - INFO -   -> Generated /data/analysis/1_000_000/table_reports/intergenic_isoforms.html
+2026-03-05 13:47:06,125 - INFO - Processing category: full-splice_match
+2026-03-05 13:47:06,174 - INFO -   -> Generated /data/analysis/1_000_000/table_reports/full-splice_match_isoforms.html
+2026-03-05 13:47:06,174 - INFO - Processing category: incomplete-splice_match
+2026-03-05 13:47:06,451 - INFO -   -> Generated /data/analysis/1_000_000/table_reports/incomplete-splice_match_isoforms.html
+2026-03-05 13:47:06,451 - INFO - Processing category: novel_not_in_catalog
+2026-03-05 13:47:06,593 - INFO -   -> Generated /data/analysis/1_000_000/table_reports/novel_not_in_catalog_isoforms.html
+2026-03-05 13:47:06,593 - INFO - Processing category: fusion
+2026-03-05 13:47:06,644 - INFO -   -> Generated /data/analysis/1_000_000/table_reports/fusion_isoforms.html
+2026-03-05 13:47:06,644 - INFO - Done! All reports generated.
+	Command being timed: "singularity exec --bind /home/cmonzo/workspace/comp-eff-SQANTI-browser:/data SQANTI-browser/sqanti-browser.sif python SQANTI-browser/sqanti_browser.py --gtf /data/analysis/1_000_000/1_000_000_corrected.gtf --classification /data/analysis/1_000_000/1_000_000_classification.txt --output /data/analysis/1_000_000 --genome hg38 --tables --hub-name 1_000_000"
+	User time (seconds): 68.30
+	System time (seconds): 5.51
+	Percent of CPU this job got: 96%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 1:16.66
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1096808
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 471
+	Minor (reclaiming a frame) page faults: 1191283
+	Voluntary context switches: 2197
+	Involuntary context switches: 29845
+	Swaps: 0
+	File system inputs: 64500
+	File system outputs: 2291984
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+Completed %A_%a for 1_000_000.gff
+ in 76 seconds

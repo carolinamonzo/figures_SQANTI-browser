@@ -1,0 +1,6 @@
+hub 500_000
+shortLabel 500_000
+longLabel SQANTI3 Transcriptome Analysis for hg38
+genomesFile genomes.txt
+email sqanti3_user@users.noreply.github.com
+descriptionUrl README.md
