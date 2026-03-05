@@ -1,0 +1,7 @@
+nanopore_isoforms_SIRV4.gtf
+PacBio_isoforms_bambu_SIRV4_B31.gtf
+PacBio_isoseq_collapsed_SIRV4.gtf
+PacBio_reads_mm2_SIRV4.gtf
+nanopore_reads_SIRV4.gff
+PacBio_isoseq_clustered_mm2_SIRV4.gff
+PacBio_isoseq_clustered_pbmm2_SIRV4.gff

@@ -1,0 +1,60 @@
+SIRV4	pinfish	transcript	1001	3403	.	+	.	transcript_id "transcript/583408"; gene_id "transcript/583408"
+SIRV4	pinfish	exon	1001	1346	.	+	.	transcript_id "transcript/583408";
+SIRV4	pinfish	exon	1679	1885	.	+	.	transcript_id "transcript/583408";
+SIRV4	pinfish	exon	2390	3403	.	+	.	transcript_id "transcript/583408";
+SIRV4	pinfish	transcript	1002	3396	.	+	.	transcript_id "transcript/586096"; gene_id "transcript/586096"
+SIRV4	pinfish	exon	1002	1346	.	+	.	transcript_id "transcript/586096";
+SIRV4	pinfish	exon	1679	1885	.	+	.	transcript_id "transcript/586096";
+SIRV4	pinfish	exon	2390	3396	.	+	.	transcript_id "transcript/586096";
+SIRV4	pinfish	transcript	1002	3402	.	+	.	transcript_id "transcript/584111"; gene_id "transcript/584111"
+SIRV4	pinfish	exon	1002	1346	.	+	.	transcript_id "transcript/584111";
+SIRV4	pinfish	exon	1679	1885	.	+	.	transcript_id "transcript/584111";
+SIRV4	pinfish	exon	2390	3402	.	+	.	transcript_id "transcript/584111";
+SIRV4	pinfish	transcript	1002	3403	.	+	.	transcript_id "transcript/583681"; gene_id "transcript/583681"
+SIRV4	pinfish	exon	1002	1346	.	+	.	transcript_id "transcript/583681";
+SIRV4	pinfish	exon	1679	1885	.	+	.	transcript_id "transcript/583681";
+SIRV4	pinfish	exon	2390	3403	.	+	.	transcript_id "transcript/583681";
+SIRV4	pinfish	transcript	1002	3403	.	+	.	transcript_id "transcript/588128"; gene_id "transcript/588128"
+SIRV4	pinfish	exon	1002	1346	.	+	.	transcript_id "transcript/588128";
+SIRV4	pinfish	exon	1679	1885	.	+	.	transcript_id "transcript/588128";
+SIRV4	pinfish	exon	2390	2975	.	+	.	transcript_id "transcript/588128";
+SIRV4	pinfish	exon	3012	3403	.	+	.	transcript_id "transcript/588128";
+SIRV4	pinfish	transcript	1086	3403	.	+	.	transcript_id "transcript/595568"; gene_id "transcript/595568"
+SIRV4	pinfish	exon	1086	1346	.	+	.	transcript_id "transcript/595568";
+SIRV4	pinfish	exon	1679	1885	.	+	.	transcript_id "transcript/595568";
+SIRV4	pinfish	exon	2390	3403	.	+	.	transcript_id "transcript/595568";
+SIRV4	pinfish	transcript	1256	3403	.	+	.	transcript_id "transcript/622231"; gene_id "transcript/622231"
+SIRV4	pinfish	exon	1256	1346	.	+	.	transcript_id "transcript/622231";
+SIRV4	pinfish	exon	1679	1885	.	+	.	transcript_id "transcript/622231";
+SIRV4	pinfish	exon	2390	3403	.	+	.	transcript_id "transcript/622231";
+SIRV4	pinfish	transcript	1457	2771	.	+	.	transcript_id "transcript/644458"; gene_id "transcript/644458"
+SIRV4	pinfish	exon	1457	1885	.	+	.	transcript_id "transcript/644458";
+SIRV4	pinfish	exon	2252	2771	.	+	.	transcript_id "transcript/644458";
+SIRV4	pinfish	transcript	1457	2771	.	+	.	transcript_id "transcript/644955"; gene_id "transcript/644955"
+SIRV4	pinfish	exon	1457	1885	.	+	.	transcript_id "transcript/644955";
+SIRV4	pinfish	exon	2252	2771	.	+	.	transcript_id "transcript/644955";
+SIRV4	pinfish	transcript	1836	3403	.	+	.	transcript_id "transcript/640715"; gene_id "transcript/640715"
+SIRV4	pinfish	exon	1836	1885	.	+	.	transcript_id "transcript/640715";
+SIRV4	pinfish	exon	2390	3403	.	+	.	transcript_id "transcript/640715";
+SIRV4	pinfish	transcript	3641	5157	.	-	.	transcript_id "transcript/665845"; gene_id "transcript/665845"
+SIRV4	pinfish	exon	3641	4103	.	-	.	transcript_id "transcript/665845";
+SIRV4	pinfish	exon	5008	5157	.	-	.	transcript_id "transcript/665845";
+SIRV4	pinfish	transcript	8324	14622	.	-	.	transcript_id "transcript/665778"; gene_id "transcript/665778"
+SIRV4	pinfish	exon	8324	8372	.	-	.	transcript_id "transcript/665778";
+SIRV4	pinfish	exon	8630	8990	.	-	.	transcript_id "transcript/665778";
+SIRV4	pinfish	exon	13673	13822	.	-	.	transcript_id "transcript/665778";
+SIRV4	pinfish	exon	14593	14622	.	-	.	transcript_id "transcript/665778";
+SIRV4	pinfish	transcript	8324	15121	.	-	.	transcript_id "transcript/663416"; gene_id "transcript/663416"
+SIRV4	pinfish	exon	8324	8372	.	-	.	transcript_id "transcript/663416";
+SIRV4	pinfish	exon	8630	8990	.	-	.	transcript_id "transcript/663416";
+SIRV4	pinfish	exon	13673	13828	.	-	.	transcript_id "transcript/663416";
+SIRV4	pinfish	exon	15020	15121	.	-	.	transcript_id "transcript/663416";
+SIRV4	pinfish	transcript	8324	15121	.	-	.	transcript_id "transcript/667143"; gene_id "transcript/667143"
+SIRV4	pinfish	exon	8324	8372	.	-	.	transcript_id "transcript/667143";
+SIRV4	pinfish	exon	8630	8747	.	-	.	transcript_id "transcript/667143";
+SIRV4	pinfish	exon	8847	8990	.	-	.	transcript_id "transcript/667143";
+SIRV4	pinfish	exon	13673	13828	.	-	.	transcript_id "transcript/667143";
+SIRV4	pinfish	exon	15020	15121	.	-	.	transcript_id "transcript/667143";
+SIRV4	pinfish	transcript	8633	13936	.	-	.	transcript_id "transcript/664906"; gene_id "transcript/664906"
+SIRV4	pinfish	exon	8633	8990	.	-	.	transcript_id "transcript/664906";
+SIRV4	pinfish	exon	13673	13936	.	-	.	transcript_id "transcript/664906";

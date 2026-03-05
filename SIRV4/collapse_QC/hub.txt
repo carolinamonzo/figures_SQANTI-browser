@@ -1,0 +1,6 @@
+hub PacBio_isoseq_collapse_QC
+shortLabel PacBio_isoseq_collapse_QC
+longLabel SQANTI3 Transcriptome Analysis for SIRV4
+genomesFile genomes.txt
+email sqanti3_user@users.noreply.github.com
+descriptionUrl README.md

@@ -1,0 +1,10 @@
+genome SIRV4
+trackDb SIRV4/trackDb.txt
+groups SIRV4/groups.txt
+twoBitPath SIRV4/SIRV4.2bit
+organism user-defined
+description user-defined
+scientificName user-defined
+orderKey 4800
+htmlPath SIRV4/SIRV4_genome.html
+defaultPos SIRV7:1-5000
