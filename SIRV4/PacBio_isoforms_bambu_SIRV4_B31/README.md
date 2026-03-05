@@ -1,4 +1,4 @@
-# PacBio_bambu
+# PacBio_isoforms_bambu
 
 This hub displays SQANTI3 transcriptome analysis results for the SIRV4 genome assembly.
 

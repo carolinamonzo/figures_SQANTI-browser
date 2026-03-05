@@ -1,5 +1,5 @@
-hub PacBio_bambu
-shortLabel PacBio_bambu
+hub PacBio_isoforms_bambu
+shortLabel PacBio_isoforms_bambu
 longLabel SQANTI3 Transcriptome Analysis for SIRV4
 genomesFile genomes.txt
 email sqanti3_user@users.noreply.github.com

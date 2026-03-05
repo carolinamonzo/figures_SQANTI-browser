@@ -1,7 +1,7 @@
 track SIRV4_sqanti3
 bigDataUrl SIRV4_sqanti3.bb
-shortLabel PacBio_bambu SQANTI3 Transcripts
-longLabel PacBio_bambu SQANTI3 Transcriptome Analysis Results
+shortLabel PacBio_isoforms_bambu SQANTI3 Transcripts
+longLabel PacBio_isoforms_bambu SQANTI3 Transcriptome Analysis Results
 type bigBed 12 + 49
 filter.length 0:150000
 filterByRange.length on
