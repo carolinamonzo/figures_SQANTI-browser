@@ -1,0 +1,2 @@
+computational_efficiency/analysis/*/table_reports/*.html filter=lfs diff=lfs merge=lfs -text
+computational_efficiency/analysis/*/hg38/*.ix filter=lfs diff=lfs merge=lfs -text
