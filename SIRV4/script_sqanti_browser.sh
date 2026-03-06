@@ -1,8 +1,8 @@
-#for file in $(cat gtfs.fof);
-#do filename="${file%.*}";
-#outname="${filename%_S*}";
-#python ~/workspace/SQANTI-browser/sqanti_browser.py --gtf ${filename}/${filename}_corrected.gtf --classification ${filename}/${filename}_classification.txt --output ./${filename} --genome SIRV4 --tables --no-category-tracks --hub-name ${outname} --twobit ~/workspace/SQANTI-browser/example/SQANTI3_QC_custom_genome/SIRVS.2bit;
-#done
+for file in $(cat gtfs.fof);
+do filename="${file%.*}";
+outname="${filename%_S*}";
+python ~/workspace/SQANTI-browser/sqanti_browser.py --gtf ${filename}/${filename}_corrected.gtf --classification ${filename}/${filename}_classification.txt --output ./${filename} --genome SIRV4 --tables --no-category-tracks --hub-name ${outname} --twobit ~/workspace/SQANTI-browser/example/SQANTI3_QC_custom_genome/SIRVS.2bit;
+done
 
 python ~/workspace/SQANTI-browser/sqanti_browser.py --gtf collapse_QC/PacBio_isoforms_collapse_QC.gtf --classification collapse_QC/PacBio_isoforms_collapse_QC_classification.txt --output ./collapse_QC --genome SIRV4 --tables --no-category-tracks --hub-name PacBio_isoseq_collapse_QC --twobit ~/workspace/SQANTI-browser/example/SQANTI3_QC_custom_genome/SIRVS.2bit --no-highlight
 

@@ -17,5 +17,14 @@ SIRV4	PacBio	exon	8324	8372	.	-	.	gene_id "PB.16313"; transcript_id "PB.16313.2"
 SIRV4	PacBio	exon	8630	8990	.	-	.	gene_id "PB.16313"; transcript_id "PB.16313.2";
 SIRV4	PacBio	exon	13673	13822	.	-	.	gene_id "PB.16313"; transcript_id "PB.16313.2";
 SIRV4	PacBio	exon	14593	14622	.	-	.	gene_id "PB.16313"; transcript_id "PB.16313.2";
-SIRV4	LexogenSIRVData	exon	8630	8990	.	-	0	gene_id "SIRV4"; transcript_id "SIRV405"; exon_id "SIRV405_0"; 
-SIRV4	LexogenSIRVData	exon	13673	13937	.	-	0	gene_id "SIRV4"; transcript_id "SIRV405"; exon_id "SIRV405_1"; 
+SIRV4	LexogenSIRVData	exon	8323	8372	.	-	0	gene_id "SIRV4"; transcript_id "SIRV403"; exon_assignment "SIRV403_0";
+SIRV4	LexogenSIRVData	exon	8630	8990	.	-	0	gene_id "SIRV4"; transcript_id "SIRV403"; exon_assignment "SIRV403_1";
+SIRV4	LexogenSIRVData	exon	13673	13828	.	-	0	gene_id "SIRV4"; transcript_id "SIRV403"; exon_assignment "SIRV403_2";
+SIRV4	LexogenSIRVData	exon	15020	15122	.	-	0	gene_id "SIRV4"; transcript_id "SIRV403"; exon_assignment "SIRV403_3";
+SIRV4	LexogenSIRVData	exon	8630	8990	.	-	0	gene_id "SIRV4"; transcript_id "SIRV405"; exon_id "SIRV405_0";
+SIRV4	LexogenSIRVData	exon	13673	13937	.	-	0	gene_id "SIRV4"; transcript_id "SIRV405"; exon_id "SIRV405_1";
+SIRV4	LexogenSIRVData	exon	8324	8372	.	-	0	gene_id "SIRV4"; transcript_id "SIRV408"; exon_assignment "SIRV408_0";
+SIRV4	LexogenSIRVData	exon	8630	8747	.	-	0	gene_id "SIRV4"; transcript_id "SIRV408"; exon_assignment "SIRV408_1";
+SIRV4	LexogenSIRVData	exon	8847	8990	.	-	0	gene_id "SIRV4"; transcript_id "SIRV408"; exon_assignment "SIRV408_2";
+SIRV4	LexogenSIRVData	exon	13673	13828	.	-	0	gene_id "SIRV4"; transcript_id "SIRV408"; exon_assignment "SIRV408_3";
+SIRV4	LexogenSIRVData	exon	15020	15122	.	-	0	gene_id "SIRV4"; transcript_id "SIRV408"; exon_assignment "SIRV408_4";
