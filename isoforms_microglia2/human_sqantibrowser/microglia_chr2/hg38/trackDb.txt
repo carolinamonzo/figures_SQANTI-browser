@@ -146,3 +146,4 @@ itemRgb on
 priority 1
 html hg38_sqanti3_track.html
 searchIndex name
+searchTrix trix.ix
